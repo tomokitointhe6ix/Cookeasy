@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Recipe>
+
+@{
+    ViewBag.Title = "View Recipe";
+}
+        <!-- Nav -->
+        <nav id="nav">
+            <ul>
+                <li><a asp-action="Index">Home</a></li>
+                <li class="active"><a asp-action="RecipeList">Recipe List</a></li>
+                <li><a asp-controller="Admin" asp-action="AddRecipe">Add Recipe</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<!-- Header -->
+<!-- Main -->
+<div id="main">
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            @foreach (var p in Model)
+            {
+            <div class="12u">
+                <header>
+                    <h4 class="bold">Recipe ID: @p.RecipeId</h4>
+                    <br />
+                    <h2>@p.RecipeName</h2>
+                </header>
+                <!--
+        <section>
+            <img src="/images/pic_08.jpg">
+        </section>
+    -->
+                <section>
+                    <h3 class="bold">Description:</h3>
+                    <p>@p.Description</p>
+                </section>
+                <section>
+                    <h3 class="bold">Ingredients:</h3>
+                    <!--
+        <ol class="ingr">
+            <li>
+                -->
+                    @p.Ingredients
+                    <!--</li>
+        </ol>-->
+                </section>
+                <section>
+                    <h3 class="bold">Chef:</h3>
+                    <p>@p.Chef</p>
+                </section>
+                <section>
+                    <h3 class="bold">Preparation Time:</h3>
+                    <p>@p.PreparationTime mins</p>
+                </section>
+                <section>
+                    <form asp-controller="Admin" asp-action="Delete" method="post">
+                        <input type="hidden" name="RecipeId" value="@p.RecipeId" />
+
+                        <a  class="submitbtn" asp-controller="Admin" asp-action="Update" asp-route-recipeId="@p.RecipeId">
+                        Edit
+                        </a>
+                        <button class="submitbtn" type="submit">Delete</button>
+                    </form>
+                </section>
+
+            </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- /Main Content -->

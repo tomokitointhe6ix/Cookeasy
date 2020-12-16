@@ -1,0 +1,62 @@
+﻿.rating {
+    line-height: 1;
+    color: gold;
+    font-size: 24px;
+}
+
+    .rating input {
+        position: absolute;
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .rating label {
+        display: inline-block;
+    }
+
+    .rating input:focus + label {
+        outline: 1px solid currentColor;
+    }
+
+    .rating input:checked + label ~ label {
+        color: grey;
+    }
+
+
+.star5_rating {
+    position: relative;
+    z-index: 0;
+    display: inline-block;
+    white-space: nowrap;
+    color: #CCCCCC;
+}
+
+    .star5_rating:before, .star5_rating:after {
+        content: '★★★★★';
+    }
+
+    .star5_rating:after {
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        white-space: nowrap;
+        color: gold; 
+    }
+
+    .star5_rating[data-rate="5"]:after {
+        width: 100%;
+    }
+    .star5_rating[data-rate="4"]:after {
+        width: 80%;
+    }
+    .star5_rating[data-rate="3"]:after {
+        width: 60%;
+    }
+    .star5_rating[data-rate="2"]:after {
+        width: 40%;
+    }
+    .star5_rating[data-rate="1"]:after {
+        width: 20%;
+    }

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Review1>
+@{
+    ViewBag.Title = "Review List";
+    Layout = "_LayoutReview";
+}
+
+<!-- Main -->
+<div id="main">
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            @foreach (var p in Model)
+            {
+            <div class="12u">
+                <header>
+                    <h4 class="bold">Review ID: @p.ReviewId</h4>
+                    <!-- <h2>
+                        if (TempData["message"] != null)
+                            {
+                                TempData["message"]
+                            }
+                        </h2> -->
+                </header>
+                <section>
+                    <h3 class="bold">Rating:</h3>
+                    <p>
+                        <span class="star5_rating" data-rate="@p.Rating"></span>
+                    </p>
+                </section>
+                <section>
+                    <h3 class="bold">Review:</h3>
+                    <p>@p.ReviewBody</p>
+                </section>
+            </div>
+                <hr />
+            }
+        </div>
+    </div>
+</div>
+<!-- /Main Content -->

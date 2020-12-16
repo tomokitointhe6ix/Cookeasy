@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/TT_Macbook/Centennial/3rd/COMP229/Project/Assignment01Boot/Assignment01Boot/Assignment01/Assignment01.csproj": {}
+  },
+  "projects": {
+    "/Volumes/TT_Macbook/Centennial/3rd/COMP229/Project/Assignment01Boot/Assignment01Boot/Assignment01/Assignment01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/TT_Macbook/Centennial/3rd/COMP229/Project/Assignment01Boot/Assignment01Boot/Assignment01/Assignment01.csproj",
+        "projectName": "Assignment01",
+        "projectPath": "/Volumes/TT_Macbook/Centennial/3rd/COMP229/Project/Assignment01Boot/Assignment01Boot/Assignment01/Assignment01.csproj",
+        "packagesPath": "/Users/tomokitakeuchi/.nuget/packages/",
+        "outputPath": "/Volumes/TT_Macbook/Centennial/3rd/COMP229/Project/Assignment01Boot/Assignment01Boot/Assignment01/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tomokitakeuchi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css" />
+    <link href='http://fonts.googleapis.com/css?family=Questrial' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="/css/skel-noscript.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/style-desktop.css" />
+    <link rel="stylesheet" href="~/css/style-rating.css" />
+    <script src="/lib/jquery/jquery.min.js"></script>
+    <script src="/lib/jquery-validate/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+</head>
+<body class="homepage">
+
+    <div>
+        <!-- Header -->
+        <div id="header">
+            <div id="logo-wrapper">
+                <div class="container">
+
+                    <!-- Logo -->
+                    <div id="logo">
+                        <p><a asp-controller="Home" asp-action="Index"><img class="banner" style="width: 80px" src="/images/logo_transparent.png"></a></p>
+                        <h1><a asp-controller="Home" asp-action="Index">Cookeasy</a></h1>
+                        <span>COMP229 - sec002- Group 1</span>
+                    </div>
+
+                </div>
+            </div>
+            <div class="container">
+                <!-- Nav -->
+                <nav id="nav">
+                    <ul>
+                        <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="active"><a asp-controller="Home" asp-action="RecipeList">Recipe List</a></li>
+                        <li><a asp-controller="Admin" asp-action="AddRecipe">Add Recipe</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <!-- Header -->
+        @RenderBody()
+    </div>
+            <!-- Copyright -->
+            <div id="copyright">
+                <div class="container">
+                    <section>
+                        COMP229 SEC002 Andrii, Tereza, Tomoki, Vladimir
+                    </section>
+                    <a class="logout" asp-controller="Account" asp-action="Logout">Log Out</a>
+                </div>
+            </div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Recipe>
+@{
+    ViewBag.Title = "Recipe List";
+}
+
+        <!-- Nav -->
+        <nav id="nav">
+            <ul>
+                <li><a asp-action="Index">Home</a></li>
+                <li class="active"><a asp-action="RecipeList">Recipe List</a></li>
+                <li><a asp-controller="Admin" asp-action="AddRecipe">Add Recipe</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<!-- Header -->
+<!-- Main -->
+<div id="main">
+    
+    <!-- Featured -->
+    <div class="container">
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success mt-1">@TempData["message"]</div>
+        }
+
+        <div class="row">
+            @{foreach (var p in Model)
+                {
+            <section class="3u">
+                <p>
+                    <a class="bold"
+                       asp-action="ViewRecipe" asp-route-id="@p.RecipeId">
+                        @p.RecipeName
+                    </a>
+                </p>
+                <p>
+                    <a asp-controller="Review" asp-action="ReviewRecipe" asp-route-id="@p.RecipeId">
+                        Review Recipe
+                    </a>
+                </p>
+                <p>
+                    <a asp-controller="Review" asp-action="ReviewList" asp-route-id="@p.RecipeId">
+                        Review List
+                    </a>
+                </p>
+                <br />
+            </section>
+                }
+            }
+        </div>
+    </div>
+    <!-- /Featured -->
+</div>

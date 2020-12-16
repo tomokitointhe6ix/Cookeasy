@@ -1,0 +1,39 @@
+﻿@model Recipe
+
+@{
+    ViewBag.Title = "Update Recipe";
+}
+
+<!-- Nav -->
+<nav id="nav">
+    <ul>
+        <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+        <li class="active"><a asp-controller="Home" asp-action="RecipeList">Recipe List</a></li>
+        <li><a asp-action="AddRecipe">Add Recipe</a></li>
+    </ul>
+</nav>
+    </div>
+</div>
+<!-- Header -->
+<!-- Main -->
+<div id="main">
+
+    <!-- Featured -->
+    <div class="container">
+        <div class="panel panel-success">
+            <div class="panel-heading text-center"><h4>Update Recipe</h4></div>
+            <div class="panel-body">
+                <form class="p-a-1" asp-action="Update" method="Post">
+                    <!--<div asp-validation-summary="All"></div>-->
+
+                    @await Html.PartialAsync("FormInputs")
+
+                    <div class="text-center">
+                        <button class="submitbtn" type="submit">Save</button>
+                        <a class="submitbtn" asp-controller="Home" asp-action="RecipeList">Cancel</a>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,229 @@
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.deps.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.dev.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csprojAssemblyReference.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfoInputs.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CoreCompileInputs.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.input.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.output.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorCoreGenerate.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/Home.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/RecipeList.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ReviewRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.genruntimeconfig.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CopyComplete
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01/Assignment01/bin/Debug/netcoreapp2.1/libman.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/libman.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.deps.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.dev.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csprojAssemblyReference.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfoInputs.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CoreCompileInputs.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.input.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.output.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorCoreGenerate.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/Home.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/RecipeList.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ReviewRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.genruntimeconfig.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CopyComplete
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment01/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/libman.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.deps.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.dev.json
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csprojAssemblyReference.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfoInputs.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CoreCompileInputs.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.input.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.output.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorCoreGenerate.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/Home.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/RecipeList.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ReviewRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewRecipe.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.dll
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.pdb
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.genruntimeconfig.cache
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CopyComplete
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Shared/FormInputs.cshtml.g.cs
+/Users/tomokitakeuchi/Google ドライブ/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/List.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/libman.json
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.deps.json
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.json
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.runtimeconfig.dev.json
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.dll
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.pdb
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.dll
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/bin/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csprojAssemblyReference.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfoInputs.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.AssemblyInfo.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CoreCompileInputs.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorAssemblyInfo.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.input.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.TagHelpers.output.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorCoreGenerate.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddRecipe.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/Home.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/List.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/RecipeList.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ReviewRecipe.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewRecipe.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Shared/FormInputs.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.RazorTargetAssemblyInfo.cs
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.Views.pdb
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.dll
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.pdb
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.genruntimeconfig.cache
+/Volumes/TT_Macbook/Centennial/3rd/COMP229/assignments/assignment02/Assignment01Boot/Assignment01/obj/Debug/netcoreapp2.1/Assignment01.csproj.CopyComplete
+H:\comp229\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.deps.json
+H:\comp229\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.runtimeconfig.json
+H:\comp229\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.runtimeconfig.dev.json
+H:\comp229\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.dll
+H:\comp229\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.pdb
+H:\comp229\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.Views.dll
+H:\comp229\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.Views.pdb
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csprojAssemblyReference.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csproj.CoreCompileInputs.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorAssemblyInfo.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorAssemblyInfo.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.AssemblyInfoInputs.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.AssemblyInfo.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.TagHelpers.input.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.TagHelpers.output.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorCoreGenerate.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\FormInputs.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorTargetAssemblyInfo.cache
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorTargetAssemblyInfo.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.Views.pdb
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.dll
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.pdb
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csproj.CopyComplete
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Update.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Review\ReviewList.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Review\ReviewRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csprojAssemblyReference.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csproj.CoreCompileInputs.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorAssemblyInfo.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorAssemblyInfo.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.AssemblyInfoInputs.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.AssemblyInfo.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.TagHelpers.input.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.TagHelpers.output.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorCoreGenerate.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Update.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Review\ReviewList.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Review\ReviewRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\FormInputs.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorTargetAssemblyInfo.cache
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorTargetAssemblyInfo.cs
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.dll
+H:\comp229\Assignment01Boot - Copy (3)\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.pdb
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.deps.json
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.runtimeconfig.json
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.runtimeconfig.dev.json
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.dll
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.pdb
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csprojAssemblyReference.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csproj.CoreCompileInputs.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.AssemblyInfoInputs.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.AssemblyInfo.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.dll
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.pdb
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.Views.dll
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\bin\Debug\netcoreapp2.1\Assignment01.Views.pdb
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorAssemblyInfo.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorAssemblyInfo.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.TagHelpers.input.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.TagHelpers.output.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorCoreGenerate.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Update.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Review\ReviewList.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Review\ReviewRecipe.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\FormInputs.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorTargetAssemblyInfo.cache
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.RazorTargetAssemblyInfo.cs
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.Views.pdb
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Assignment01.csproj.CopyComplete
+H:\comp229\Assignment01Boot\Assignment01Boot\Assignment01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutReview.g.cshtml.cs

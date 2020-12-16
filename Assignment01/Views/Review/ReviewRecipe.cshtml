@@ -1,0 +1,50 @@
+﻿@model Review1 
+@{
+    ViewBag.Title = "Review Recipe";
+    Layout = "_LayoutReview";
+}
+
+<!-- Main -->
+<div id="main">
+
+    <div class="container">
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success mt-1">@TempData["message"]</div>
+        }
+        <div class="panel panel-success">
+            <div class="panel-heading text-center"><h4>Write a Reviw</h4></div>
+            <div class="panel-body">
+                <form class="p-a-1" asp-action="ReviewRecipe" method="Post">
+                    <input type="hidden" asp-for="ReviewId" />
+                    <input type="hidden" asp-for="RecipeId" />
+                    <!--<div asp-validation-summary="All"></div>-->
+                    <p></p>
+                    <div class="form-group">
+                        <div class="rating">
+                            <label asp-for="Rating"><span style="color:#808080">Rating:</span></label>
+                            <input id="rating1" type="radio" name="rating" value="1" checked>
+                            <label for="rating1">★</label>
+                            <input id="rating2" type="radio" name="rating" value="2">
+                            <label for="rating2">★</label>
+                            <input id="rating3" type="radio" name="rating" value="3">
+                            <label for="rating3">★</label>
+                            <input id="rating4" type="radio" name="rating" value="4">
+                            <label for="rating4">★</label>
+                            <input id="rating5" type="radio" name="rating" value="5">
+                            <label for="rating5">★</label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control" asp-for="ReviewBody"> </textarea>
+                        <div><span asp-validation-for="ReviewBody" class="text-danger"></span></div>
+                    </div>
+                    <div class="text-center">
+                        <button class="submitbtn" type="submit">Submit Review</button>
+                        <a class="submitbtn" asp-controller="Home" asp-action="RecipeList">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
